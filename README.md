@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Snayza/Snayza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Snayza 👋
+
+💻 IT Student | Cybersecurity Enthusiast
+
+I'm learning programming and cybersecurity, exploring Linux, Python, and networking.
+
+### Currently learning
+
+* Python
+* Linux & Kali Linux
+* Networking
+* Cybersecurity basics
+
+### Goals
+
+* Improve my coding skills
+* Build useful projects
+* Learn ethical hacking
+
+### Connect with me
+
+* gmail: snayzaofficial@gmail.com
+
+*Learning something new every day* 🖤
